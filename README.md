@@ -8,9 +8,9 @@ Implementação e avaliação do desempenho de um modelo de Regressão Linear ap
 ## **Instalação e Execução**
 Para executar o projeto no Google Colab, siga as instruções abaixo:
 
-1. Acesse o [repositório do projeto]((https://github.com/AlexCamposDosSantos/ProjetoRegressao/) e faça o download do arquivo `Projeto_RegLinear.ipynb`.
+1. Acesse o [repositório do projeto]((https://github.com/AlexCamposDosSantos/ProjetoRegressao/) e faça o download do arquivo `Projeto_RegLinear.ipynb`.</br></br>
 2. Carregue o arquivo no Google Colab:
-   - No Colab, clique em **Arquivo > Abrir Notebook > Upload > Procurar > selecione `Projeto_RegLinear.ipynb`** .
+   - No Colab, clique em **Arquivo > Abrir Notebook > Upload > Procurar > selecione `Projeto_RegLinear.ipynb`** .</br></br>
 3. Certifique-se de que os dados necessários estejam disponíveis no Colab:
    - Você pode usar a integração com o Google Drive para carregar os dados:
      ```python
@@ -21,21 +21,25 @@ Para executar o projeto no Google Colab, siga as instruções abaixo:
  --- 
  
 ## **Estrutura dos Arquivos**
-`Projeto_RegLinear.ipynb`: Notebook principal com o código do modelo de Regressão Linear.
-`top_insta_influencers_data.csv`: Contém os dados utilizados no projeto.
-`Relatorio_Tecnico_RegLinear.pdf`: Relatórios.
+`Projeto_RegLinear.ipynb`: Notebook principal com o código do modelo de Regressão Linear.</br></br>
+`top_insta_influencers_data.csv`: Contém os dados utilizados no projeto.</br></br>
+`Relatorio_Tecnico_RegLinear.pdf`: Relatórios.</br>
 
 ## **Tecnologias Utilizadas:**
-Linguagem: Python
-Bibliotecas Principais:
-  Scikit-learn: Construção e avaliação do modelo.
-  Pandas: Manipulação de dados.
-  NumPy: Cálculos numéricos.
-  Matplotlib e Seaborn: Visualização de dados.
-  Ambiente: Google Colab
+Linguagem: Python</br>
+Bibliotecas Principais:</br>
+   - Scikit-learn: Construção e avaliação do modelo.</br>
+   - Pandas: Manipulação de dados.</br>
+   - NumPy: Cálculos numéricos.</br>
+   - Matplotlib e Seaborn: Visualização de dados.</br>
+
+Ambiente: Google Colab</br>
 
 
 ## **Autores e Colaboradores:**
 GRUPO 62:</br>
 Alex Reginaldo Abreu Campos dos Santos</br>
 Sara Sacramento de Mello
+
+O desenvolvimento deste projeto foi realizado de forma presencial, com ambos os integrantes trabalhando juntos no mesmo ambiente. Todo o código foi implementado em colaboração, utilizando uma máquina. As tarefas foram discutidas e executadas em conjunto, garantindo integração total e troca constante de ideias ao longo do processo.
+
